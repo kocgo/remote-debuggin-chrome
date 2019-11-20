@@ -31,3 +31,6 @@ const wsChrome= "ws://ws://159.89.102.25:9223/devtools/browser/7c59e4eb-d442-4ad
     }).catch(e => console.log(e));
 })();
 ```
+
+### Chrome Run Flags
+http://codefodder.github.io/chrome-chromium-startup-flags/
